@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-47ad14fef9.markquan.cn/sitemap.xml
